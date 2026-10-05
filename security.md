@@ -4,9 +4,9 @@
 
 This repository contains code and files for a class project. The intended users are:
 
-- **Me (the owner):** I write and maintain all code in this repo.
+- **Me:** I write and maintain all code in this repo.
 - **The instructor and TAs:** They review and grade the work.
-- **Classmates and collaborators (if any):** They may view or contribute code when the assignment calls for it.
+- **Classmates and collaborators:** They may view or contribute code when the assignment calls for it.
 
 The repo is not meant for production use or for the general public. It does not contain real user data.
 
