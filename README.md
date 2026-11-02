@@ -16,3 +16,14 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+## CSE 3000 README
+Personal Statement on Ethics
+
+To me, ethics is about taking responsibility for the effects our choices have on other people, especially people who had no say in those choices. When we build or deploy technology, it is easy to treat ethical questions as someone else's job or as something to check at the end. I think it works better as a habit that shapes decisions from the start.
+
+From my reading of chapter 5 of Ethical Machines, I came away believing that we need to be mindful of ethical risk and minimize it. Good intentions are not enough. Systems can cause harm even when no one meant them to, so it matters to ask who could be affected, how, and what we owe them before problems appear.
+
+I also think ethics needs concrete questions rather than only abstract values. Asking "Is this fair?" "Could someone be harmed?" and "Would I be comfortable explaining this decision to the people it affects?" turn good principles into practice.
+
+Going forward, I want to approach my work by asking those questions early, listening to people who see risks I might miss, and being willing to slow down or change course when the answers are uncomfortable.
