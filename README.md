@@ -18,7 +18,7 @@ Your goal is to connect anonymized data back to its source data and check the ma
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
 
 ## CSE 3000 README
-# Personal Statement on Ethics
+### Personal Statement on Ethics
 
 To me, ethics is about taking responsibility for the effects our choices have on other people, especially people who had no say in those choices. When we build or deploy technology, it is easy to treat ethical questions as someone else's job or as something to check at the end. I think it works better as a habit that shapes decisions from the start.
 
